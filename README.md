@@ -27,7 +27,7 @@ Building macOS application...
 Syncing files to device macOS...                                    24ms
 
 Flutter run key commands.
-r Hot reload. 🔥🔥🔥
+r Hot reload.
 R Hot restart.
 h List all available interactive commands.
 d Detach (terminate "flutter run" but leave application running).
