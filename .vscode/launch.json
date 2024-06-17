@@ -43,6 +43,66 @@
             "request": "launch",
             "type": "dart",
             "flutterMode": "release"
-        }
+        },
+        {
+            "name": "step_3",
+            "cwd": "step_3",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_3 (profile mode)",
+            "cwd": "step_3",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_3 (release mode)",
+            "cwd": "step_3",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_4",
+            "cwd": "step_4",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_4 (profile mode)",
+            "cwd": "step_4",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_4 (release mode)",
+            "cwd": "step_4",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_5",
+            "cwd": "step_5",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_5 (profile mode)",
+            "cwd": "step_5",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_5 (release mode)",
+            "cwd": "step_5",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
     ]
 }
