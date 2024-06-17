@@ -120,13 +120,20 @@ class _MyHomePageState extends State<MyHomePage> {
               '$_counter',
               style: Theme.of(context).textTheme.headlineMedium,
             ),
-            ElevatedButton.icon(onPressed: _incrementCounter, icon: const Icon(Icons.add), label: const Text('Increment')),
+            ElevatedButton.icon(
+              onPressed: _incrementCounter,
+              icon: const Icon(Icons.add),
+              label: const Text('Increment'),
+            ),
             Text(
               '$_random',
               style: Theme.of(context).textTheme.headlineMedium,
             ),
             ElevatedButton.icon(
-                onPressed: _generateRandomNumber, icon: const Icon(Icons.question_mark), label: const Text('Generate Random'))
+              onPressed: _generateRandomNumber,
+              icon: const Icon(Icons.question_mark),
+              label: const Text('Generate Random'),
+            ),
           ],
         ),
       ),
