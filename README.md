@@ -8,7 +8,7 @@ There are some prerequisites you will want to have installed and configured. Fol
 
 ## The guide for the workshop can be found at
 
-[documentation](https://ayadev.atlassian.net/wiki/spaces/ARCH/pages/edit-v2/3503980758)
+[documentation](https://ayadev.atlassian.net/wiki/spaces/ARCH/pages/3503980758/Flutter+Hands+on+Workshop)
 
 ## Running the Project
 
